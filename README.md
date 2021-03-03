@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Sumit Jaswal, a fresher CS Graduate who likes to code. I love solving a Rubik's Cube and sometimes I play Chess too.
-- 🌱 I’m currently learning about Quantum Computing at [The Coding School](https://www.qubitbyqubit.org/programs).
+I'm Sumit Jaswal, a CS Graduate. I love solving a Rubik's Cube and sometimes I play Chess too.
 - :robot: I've created a Twitter Bot too: [Everything Quantum](https://twitter.com/thequantumbot) that keeps one updated with what's new in the field of Quantum Technologies.
 - :framed_picture: Other contributions I've made: [Unsplash](https://unsplash.com/@sumitjaswal) and [Dribbble](https://dribbble.com/sumitjaswal). 
 - 📫 You can find me on [Twitter](https://twitter.com/sumitjaswal_) and [LinkedIn](https://www.linkedin.com/in/sumit-jaswal/).
